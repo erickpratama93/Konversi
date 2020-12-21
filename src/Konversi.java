@@ -11,7 +11,7 @@
 import java.util.Scanner;
 public class Konversi {
     public static void main(String[] a) {
-    System.out.println("Pilihan Konversi : \n" 
+    System.out.println("Pilihan Konversi : \n"
             + "1. Jam -> Menit \n"
             + "2. Detik -> Hari, Jam, Menit, dan detik"
     );
